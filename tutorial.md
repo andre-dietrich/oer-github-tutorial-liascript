@@ -43,6 +43,7 @@ Using our GitHub template, you can easily create and publish your own OER in jus
 > This is only a technical instruction.
 > Please make sure to check and regard legal regulations of your country, i.e. if and how you need to provide an imprint.
 
+    {{1}}
 <section>
 
 ## What's in this tutorial:
@@ -55,6 +56,8 @@ Using our GitHub template, you can easily create and publish your own OER in jus
 
 </section>
 
+
+    {{2}}
 <section>
 
 ## Possible formats for your OER
@@ -64,6 +67,8 @@ However, you could also use other formats.
 
 </section>
 
+
+    {{3}}
 <section>
 
 ## LiaScript
@@ -77,6 +82,8 @@ All it takes for your OER to be displayed with LiaScript is a Markdown file host
 
 </section>
 
+
+    {{4}}
 <section>
 
 ## Markdown documents template
@@ -94,6 +101,8 @@ You can see this tutorial made with our template here: [Template OER Tutorial](h
 
 </section>
 
+
+    {{5}}
 <section>
 
 ## JupyterBook
@@ -115,6 +124,7 @@ You can see this tutorial made with JupyterBook here: [Jupyter OER Tutorial](htt
 
 > If you want to get started quickly, you can follow this quick start tutorial and create a simple OER within just a few minutes.
 
+    {{1}}
 <section>
 
 ### 1. Create a GitHub account, if you don't have one yet
@@ -126,6 +136,7 @@ Afterwards, log into your account.
 </section>
 
 
+    {{2}}
 <section>
 
 ### 2. Create your project
@@ -137,6 +148,7 @@ Make sure that the repository is set to **public**.
 </section>
 
 
+    {{3}}
 <section>
 
 ### 3. Fill the project with your content
@@ -148,6 +160,7 @@ You can either create the file locally and upload it to GitHub, or create it dir
 </section>
 
 
+    {{4}}
 <section>
 
 ### 4. Generate the OER
@@ -157,6 +170,7 @@ Simply go to the [LiaScript website](https://liascript.github.io) and paste the 
 </section>
 
 
+    {{5}}
 <section>
 
 ### 5. Add your metadata
@@ -173,7 +187,7 @@ Now at the bottom of the page, you can click on `Generate`. This generates the m
 
 </section>
 
-
+    {{6}}
 <section>
 
 ### Done!
@@ -205,6 +219,7 @@ The step by step tutorial consists of the following steps, which you can click t
 >
 > If you already have a GitHub account and know basic markdown syntax, you can skip this part and directly go do [Create a project](#create-a-project).
 
+    {{1}}
 <section>
 
 ### Create a GitHub account
@@ -215,6 +230,7 @@ Confirm your e-mail address and log in.
 </section>
 
 
+    {{2}}
 <section>
 
 ### Markdown
@@ -303,6 +319,7 @@ Then confirm by clicking the green `Commit changes` button.
 ![Change content](img/commit-changes-2.png)
 </center>
 
+    {{1}}
 <section>
 
 #### Why can I not see the updated content?
@@ -330,6 +347,7 @@ All you need to do now is head to <a href="https://liascript.github.io/" target=
 
 Now you should see your content in LiaScript!
 
+    {{1}}
 <section>
 
 #### Save the link for later
@@ -371,6 +389,7 @@ Now delete the whole file content and paste the output of the generator.
 To save, click on `Commit changes...` in the top right corner.
 Confirm by clicking on `Commit changes`.
 
+    {{1}}
 <section>
 
 #### Video: Update the metadata
@@ -431,6 +450,7 @@ In this part of the tutorial, we highlight further configuration options, Markdo
 >
 > * [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+    {{1}}
 <section>
 
 #### Headings
@@ -451,7 +471,7 @@ For example, to create a heading level three (`<h3>`), use three number signs (e
 
 </section>
 
-
+    {{2}}
 <section>
 
 ### Markdown elements
@@ -473,7 +493,7 @@ For example, to create a heading level three (`<h3>`), use three number signs (e
 
 </section>
 
-
+    {{3}}
 <section>
 
 ### Links to other sections
@@ -499,6 +519,7 @@ Now the link to this section is `#custom-id`.
 > If you want to learn more about Git, You can find an abundance of free tutorials, books and videos about Git, how it works and how to use it online.
 > We highly recommend to check out the free online open textbook [Pro Git](https://git-scm.com/book/en/v2).
 
+    {{1}}
 <section>
 
 ### What is Git and why should you use it?
@@ -515,7 +536,7 @@ To learn more about version control, you can check out the [Version Control sect
 
 </section>
 
-
+    {{2}}
 <section>
 
 ### How Git works
@@ -554,6 +575,7 @@ They are resolved by choosing which changes to keep or by bringing them together
 Since we are working with `Git` (see [Git section](#git) for more information), and want to publish our content on `GitHub` (see [GitHub section](#github)), we have to find a way to bring our offline work online.
 For this, you should check out the [Git section](#git).
 
+    {{1}}
 <section>
 
 ### Editors
@@ -574,6 +596,7 @@ It also has a built-in Git functionality which helps you publish your changes.
 
 </section>
 
+    {{2}}
 <section>
 
 ### Put your changes online
@@ -605,7 +628,6 @@ Your OER should now be updated in the OERSI.
 
 ### Different formats
 
-
 > After following this tutorial, you have your OER rendered by LiaScript.
 > You could, however, also use a different format for your OER.
 
@@ -616,6 +638,7 @@ We currently don't have templates with automated generation for other platforms,
 
 Below you find a short list of several possible formats your OER could use.
 
+    {{1}}
 <section>
 
 #### [Markdown documents template](https://github.com/TIBHannover/markdown-documents-template)
@@ -645,6 +668,7 @@ These formats are linked to and can be downloaded from the landing page that is 
 
 </section>
 
+    {{2}}
 <section>
 
 #### [Markdown slides template](https://github.com/TIBHannover/markdown-slides-template)
@@ -672,6 +696,7 @@ For this, you create one Markdown file for one set of slides and the template ge
 
 </section>
 
+    {{3}}
 <section>
 
 #### [LiaScript](https://liascript.github.io)
@@ -706,6 +731,7 @@ So all you really need is a Markdown file.
 
 </section>
 
+    {{4}}
 <section>
 
 #### [Static Site Generators](https://github.com/collections/static-site-generators)
@@ -726,7 +752,7 @@ You should also be familiar with the command line or using GitHub Actions yourse
 
 </section>
 
-
+    {{5}}
 <section>
 
 #### [JupyterBooks](https://jupyterbook.org/en/stable/intro.html)
@@ -758,6 +784,7 @@ You can start out with a template supplied by the software itself.
 Something does not work?
 Maybe you find your issue right here.
 
+    {{1}}
 <section>
 
 ### I do not see my changes
@@ -786,7 +813,7 @@ Following these steps might help you.
 
 </section>
 
-
+    {{2}}
 <section>
 
 ### My videos can not play
@@ -800,6 +827,7 @@ You might be able to embed your videos in an iframe or get it to work other ways
 
 ## FAQ
 
+    {{1}}
 <section>
 
 ### Can I upload non-text files like PDF files?
@@ -808,7 +836,7 @@ Yes, you can! Git however won't be able to track changes made to those files, it
 
 </section>
 
-
+    {{2}}
 <section>
 
 ### Why are the direct paths to my files different?
@@ -822,7 +850,7 @@ If you want to access the file *only*, so the raw file, GitHub allows you to do 
 
 </section>
 
-
+    {{3}}
 <section>
 
 ### How can I create a new folder?
